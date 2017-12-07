@@ -1,0 +1,46 @@
+string_lab
+Enter string number 1 for the equality comparison: How now brown cow
+Enter string number 2 for the equality comparison: Now how brown cow
+The length of string 1 is 17 characters.
+The length of string 2 is 17 characters.
+Upper-Lower compare result (1=true,0=false): 0.
+Compare result(Ignore any upper-lower case differences)(1=true,0=false): 0.
+Palindrome Test result (1=true,0=false): 0.
+Palindrome Test result (1=true,0=false): 0.
+string_lab
+Enter string number 1 for the equality comparison: Now is the time
+Enter string number 2 for the equality comparison: now is the Time
+The length of string 1 is 15 characters.
+The length of string 2 is 15 characters.
+Upper-Lower compare result (1=true,0=false): 0.
+Compare result(Ignore any upper-lower case differences)(1=true,0=false): 1.
+Palindrome Test result (1=true,0=false): 0.
+Palindrome Test result (1=true,0=false): 0.
+string_lab
+Enter string number 1 for the equality comparison: The quick brown Fox
+Enter string number 2 for the equality comparison: the Quick Brown fox
+The length of string 1 is 19 characters.
+The length of string 2 is 19 characters.
+Upper-Lower compare result (1=true,0=false): 0.
+Compare result(Ignore any upper-lower case differences)(1=true,0=false): 1.
+Palindrome Test result (1=true,0=false): 0.
+Palindrome Test result (1=true,0=false): 0.
+string_lab
+Enter string number 1 for the equality comparison: I prefer pi
+Enter string number 2 for the equality comparison: Don't nod
+The length of string 1 is 11 characters.
+The length of string 2 is 9 characters.
+Upper-Lower compare result (1=true,0=false): 0.
+Compare result(Ignore any upper-lower case differences)(1=true,0=false): 0.
+Palindrome Test result (1=true,0=false): 1.
+Palindrome Test result (1=true,0=false): 1.
+string_lab
+Enter string number 1 for the equality comparison: a man, a plan, a canal. Panama!
+Enter string number 2 for the equality comparison: madam I'm adam
+The length of string 1 is 31 characters.
+The length of string 2 is 14 characters.
+Upper-Lower compare result (1=true,0=false): 0.
+Compare result(Ignore any upper-lower case differences)(1=true,0=false): 0.
+Palindrome Test result (1=true,0=false): 1.
+Palindrome Test result (1=true,0=false): 1.
+diary OFF
